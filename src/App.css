@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: cornsilk;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+tr:nth-child(odd) {background-color: #ccc;}
+
+.columnStyle {
+height: 50px;
+background-color: blue !important;
+color: white;
+}
+
+.rowStyle {
+    position: relative;
+    text-align: center !important;    
+}
+
+td {
+    text-align: center !important;
+    vertical-align: middle !important;
+  }
+
+h1 {
+    font-family: monospace;
+    font-style: bold;
+    font-size: 60px;
+}
+
+.onHover {
+    cursor: pointer;
+}
