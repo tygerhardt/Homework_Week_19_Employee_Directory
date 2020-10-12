@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Homework_Week_19_Employee_Directory/static/css/main.b1454adb.chunk.css",
+    "main.js": "/Homework_Week_19_Employee_Directory/static/js/main.a061f949.chunk.js",
+    "main.js.map": "/Homework_Week_19_Employee_Directory/static/js/main.a061f949.chunk.js.map",
+    "runtime-main.js": "/Homework_Week_19_Employee_Directory/static/js/runtime-main.c9bd68d1.js",
+    "runtime-main.js.map": "/Homework_Week_19_Employee_Directory/static/js/runtime-main.c9bd68d1.js.map",
+    "static/js/2.b694897e.chunk.js": "/Homework_Week_19_Employee_Directory/static/js/2.b694897e.chunk.js",
+    "static/js/2.b694897e.chunk.js.map": "/Homework_Week_19_Employee_Directory/static/js/2.b694897e.chunk.js.map",
+    "index.html": "/Homework_Week_19_Employee_Directory/index.html",
+    "precache-manifest.7eee98e4653658996d545ff1eece439d.js": "/Homework_Week_19_Employee_Directory/precache-manifest.7eee98e4653658996d545ff1eece439d.js",
+    "service-worker.js": "/Homework_Week_19_Employee_Directory/service-worker.js",
+    "static/css/main.b1454adb.chunk.css.map": "/Homework_Week_19_Employee_Directory/static/css/main.b1454adb.chunk.css.map",
+    "static/js/2.b694897e.chunk.js.LICENSE.txt": "/Homework_Week_19_Employee_Directory/static/js/2.b694897e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9bd68d1.js",
+    "static/js/2.b694897e.chunk.js",
+    "static/css/main.b1454adb.chunk.css",
+    "static/js/main.a061f949.chunk.js"
+  ]
+}
